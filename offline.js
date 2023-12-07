@@ -73,7 +73,6 @@
 		"media/battletext.ogg",
 		"media/playerheal.ogg",
 		"media/gasterblast2.ogg",
-		"media/mus_zz_megalovania.ogg",
 		"icon-16.png",
 		"icon-32.png",
 		"icon-114.png",
@@ -106,3 +105,4 @@
 		"sans_final.csv"
 	]
 }
+//		"media/mus_zz_megalovania.ogg",
