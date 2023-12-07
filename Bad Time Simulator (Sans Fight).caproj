@@ -1116,7 +1116,6 @@
     <sounds-folder>
         <file name="Ding.ogg" />
         <file name="PlayerFight.ogg" />
-        <file name="PlayerDamaged.ogg" />
         <file name="SansSpeak.ogg" />
         <file name="GasterBlaster.ogg" />
         <file name="BoneStab.ogg" />
@@ -1133,7 +1132,6 @@
         <file name="GasterBlast2.ogg" />
     </sounds-folder>
     <music-folder>
-        <file name="mus_zz_megalovania.ogg" />
     </music-folder>
     <files-folder>
         <file-folder name="Icons">
